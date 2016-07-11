@@ -1,5 +1,6 @@
 #ChipsGame
- #ChipsGame
+
+This program lets the user play a simple take away game. (You can read more about the particular game here: http://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf) The user's oppenent implements a strategy that will guarantee her victory unless the user herself makes the correct move during each of her turns.
 
 The ChipsGame.java file contains the ChipsGame class: a few constructors for creating chips game objects and the methods required for playing the chips game.
 
